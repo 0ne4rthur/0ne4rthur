@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do 0ne4rthur 😁
+## Bem-vindo(a) ao perfil do Arthur Schimanski 😁
 
  <div>
    <a href="https://github.com/0ne4rthur">
