@@ -13,7 +13,7 @@ Estou construindo minha formação em cibersegurança e investigação digital, 
 
 ## Em estudo
 
-`C#` · `JavaScript` · `HTML` · `CSS` · `Git/GitHub` · `SQL` · `Lógica de Programação` · `Cibersegurança` · `OSINT`
+`C#` · `JavaScript` · `HTML` · `CSS` · `Git/GitHub` · `Lógica de Programação` · `Cibersegurança` · `OSINT`
 
 ## Atividade no GitHub
 
