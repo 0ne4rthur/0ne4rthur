@@ -1,25 +1,34 @@
-# Arthur Silva
+# Olá, eu sou Arthur Silva! 👋
 
-**Desenvolvedor Front-End Júnior | Estudante de tecnologia**
+### Desenvolvedor Front-End Júnior | Estudante de tecnologia
 
-Sou estudante da área de desenvolvimento Front-End e estou aprimorando minhas habilidades na criação de páginas e interfaces para a web. Tenho conhecimentos em **HTML, CSS e JavaScript** e busco evoluir por meio de estudos e projetos práticos.
+Estou desenvolvendo minhas habilidades em Front-End e criando projetos para praticar a construção de páginas e interfaces web. Gosto de aprender na prática, evoluir meu código e explorar novas tecnologias.
 
-## Tecnologias que conheço
+## 🛠️ Tecnologias que conheço
 
-- **HTML** — estruturação de páginas web.
-- **CSS** — estilização e construção de layouts responsivos.
-- **JavaScript** — fundamentos de programação e interatividade para páginas web.
+<p>
+  <img alt="HTML5" src="https://skillicons.dev/icons?i=html" height="45" />
+  <img alt="CSS3" src="https://skillicons.dev/icons?i=css" height="45" />
+  <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" height="45" />
+</p>
 
-## Próximos passos
+## 📚 Próximas tecnologias que vou estudar
 
-Estou planejando aprofundar meus conhecimentos e estudar:
+<p>
+  <img alt="React" src="https://skillicons.dev/icons?i=react" height="45" />
+  <img alt="TypeScript" src="https://skillicons.dev/icons?i=ts" height="45" />
+  <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="45" />
+  <img alt="Git" src="https://skillicons.dev/icons?i=git" height="45" />
+  <img alt="GitHub" src="https://skillicons.dev/icons?i=github" height="45" />
+</p>
 
-- **React**
-- **TypeScript**
-- **Node.js**
-- **Git e GitHub**
+## 📌 No momento
 
-## Atividade no GitHub
+- Praticando HTML, CSS e JavaScript.
+- Desenvolvendo projetos para meu portfólio.
+- Construindo uma base sólida em desenvolvimento web.
+
+## 📊 Atividade no GitHub
 
 <picture>
   <source
@@ -36,6 +45,7 @@ Estou planejando aprofundar meus conhecimentos e estudar:
   />
 </picture>
 
-## Contato
+## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/arthur-schimanski-2328b8220) · [E-mail](mailto:arthurschimanski0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-schimanski-2328b8220)
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-D14836?logo=gmail&logoColor=white)](mailto:arthurschimanski0@gmail.com)
