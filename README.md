@@ -1,19 +1,23 @@
 # Arthur Silva
 
-**Cibersegurança • OSINT • Investigação Digital**
+**Desenvolvedor Front-End Júnior | Estudante de tecnologia**
 
-Estou construindo minha formação em cibersegurança e investigação digital, usando programação e inteligência artificial como ferramentas de apoio para pesquisa, automação e projetos práticos.
+Sou estudante da área de desenvolvimento Front-End e estou aprimorando minhas habilidades na criação de páginas e interfaces para a web. Tenho conhecimentos em **HTML, CSS e JavaScript** e busco evoluir por meio de estudos e projetos práticos.
 
-## O que faço
+## Tecnologias que conheço
 
-- **OSINT e investigação digital:** pesquisa, correlação e análise de informações disponíveis em fontes abertas.
-- **Cibersegurança:** estudo de fundamentos, segurança defensiva e análise de exposição digital.
-- **Automação e programação:** uso de código para criar ferramentas, automatizar tarefas e apoiar investigações.
-- **IA aplicada:** uso de ferramentas de IA para prototipação, estudo, depuração, revisão e melhoria de código.
+- **HTML** — estruturação de páginas web.
+- **CSS** — estilização e construção de layouts responsivos.
+- **JavaScript** — fundamentos de programação e interatividade para páginas web.
 
-## Em estudo
+## Próximos passos
 
-`C#` · `JavaScript` · `HTML` · `CSS` · `Git/GitHub` · `Lógica de Programação` · `Cibersegurança` · `OSINT`
+Estou planejando aprofundar meus conhecimentos e estudar:
+
+- **React**
+- **TypeScript**
+- **Node.js**
+- **Git e GitHub**
 
 ## Atividade no GitHub
 
@@ -27,7 +31,7 @@ Estou construindo minha formação em cibersegurança e investigação digital, 
     srcset="https://raw.githubusercontent.com/0ne4rthur/0ne4rthur/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="Animação das contribuições de Arthur Schimanski no GitHub"
+    alt="Animação das contribuições de Arthur Silva no GitHub"
     src="https://raw.githubusercontent.com/0ne4rthur/0ne4rthur/output/github-contribution-grid-snake.svg"
   />
 </picture>
