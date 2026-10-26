@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=190&section=header&text=Arthur%20Silva&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Desenvolvedor%20Front-End%20J%C3%BAnior&descSize=18&descAlignY=58"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:262626,100:9CA3AF&height=190&section=header&text=Arthur%20Silva&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Desenvolvedor%20Front-End%20J%C3%BAnior&descSize=18&descAlignY=58"
     alt="Banner de Arthur Silva — Desenvolvedor Front-End Júnior"
     width="100%"
   />
