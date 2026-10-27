@@ -50,6 +50,15 @@ Quero ampliar minha stack e estudar as tecnologias abaixo:
 - 🧪 Desenvolvendo projetos para aplicar o que aprendo.
 - 🚀 Preparando meu portfólio e evoluindo minha organização de código.
 
+## 📊 Linguagens mais utilizadas
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ne4rthur&layout=compact&theme=transparent&hide_border=true&langs_count=6"
+    alt="Linguagens mais utilizadas nos meus repositórios"
+  />
+</div>
+
 ## 📈 Minha atividade no GitHub
 
 <div align="center">
