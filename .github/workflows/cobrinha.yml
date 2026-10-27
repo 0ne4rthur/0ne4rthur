@@ -20,8 +20,8 @@ jobs:
         uses: Platane/snk/svg-only@v3.5.0
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Match the contribution graph colors in GitHub light and dark themes.
           outputs: |
-            # Match the contribution graph colors in GitHub light and dark themes.
             dist/github-contribution-grid-snake.svg?palette=github-light
             dist/github-contribution-grid-snake-dark.svg?color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
